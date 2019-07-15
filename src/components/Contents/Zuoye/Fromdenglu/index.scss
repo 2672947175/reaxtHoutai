@@ -1,0 +1,49 @@
+.form-box {
+    width: 50%;
+    margin: 30px auto;
+    background: palegreen;
+    padding: 20px;
+    text-align: center;
+}
+
+.formcon label {
+    display: block;
+    text-align: right;
+    line-height: 40px;
+    font-size: 17px;
+    color: #fff;
+
+    input {
+        width: 70%;
+        margin: 20px 30px;
+        color: #000;
+        outline: none;
+        border: 1px solid #aaaa;
+        border-radius: 5px;
+    }
+
+    &.from-label {
+        width: 60%;
+        // display: none;
+
+        .yan {
+            width: 50%;
+        }
+    }
+
+}
+
+.btn {
+    width: 20%;
+    padding: 10px 20px;
+    margin: 10px 20px;
+
+}
+
+.bolk {
+    display: block;
+}
+
+.none {
+    display: none;
+}

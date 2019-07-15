@@ -1,0 +1,81 @@
+[
+    {
+        "id": "1",
+        "name": "ShouYe",
+        "type": false,
+        "text": "首页",
+        "icons": "user"
+    },
+    {
+        "type": true,
+        "text": "组件",
+        "icons": "laptop",
+        "id": "2",
+        "menLsit": [
+            {
+                "id": "101",
+                "name": "ZJJing",
+                "text": "静态组件/ui组件",
+                "icons": "laptop"
+            },
+            {
+                "id": "102",
+                "name": "ZJClass",
+                "text": "class组件/容器组件",
+                "icons": "laptop"
+            }
+        ]
+    },
+    {
+        "type": true,
+        "text": "API 文档",
+        "icons": "notification",
+        "id": "3",
+        "menLsit": [
+            {
+                "id": "301",
+                "name": "ApiJing",
+                "text": "静态组件/ui组件",
+                "icons": "notification"
+            },
+            {
+                "id": "302",
+                "name": "LifeCycle",
+                "text": "生命周期",
+                "icons": "notification"
+            }
+        ]
+    },
+    {
+        "type": true,
+        "text": "作业",
+        "icons": "notification",
+        "id": "4",
+        "menLsit": [
+            {
+                "id": "401",
+                "name": "ZuoYe0710",
+                "text": "0710社会人资料查询",
+                "icons": "notification"
+            },
+            {
+                "id": "402",
+                "name": "ZuoYe0710xia",
+                "text": "下拉列表",
+                "icons": "notification"
+            },
+            {
+                "id": "403",
+                "name": "ZuoYe0711deng",
+                "text": "登录",
+                "icons": "notification"
+            },
+            {
+                "id": "404",
+                "name": "ZuoYe0712from",
+                "text": "表单统计表",
+                "icons": "notification"
+            }
+        ]
+    }
+]

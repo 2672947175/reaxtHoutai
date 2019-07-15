@@ -1,0 +1,74 @@
+.conbox{
+    padding: 20px;
+    box-sizing: border-box;
+}
+.conulbox{
+    overflow: hidden;
+}
+.conulbox li{
+    width: 23%;
+    padding: 10px;
+    line-height: 24px;
+    float: left;
+    text-align: left;
+    background: #fff;
+    margin: 0 10px;
+    box-sizing: border-box;
+}
+.conulbox li a{
+    color: black;
+}
+.conulbox li a:hover{
+    color: #9999;
+}
+.contextBox{
+    width: 100%;
+    margin-top: 20px;
+    background: #fff;
+    border-radius: 5px;
+}
+.titlebox{
+    line-height: 50px;
+    padding: 0 20px;
+    box-sizing: border-box;
+    color: #333;
+    border-radius: 2px 2px 0 0;
+    font-size: 14px;
+    border-bottom: 1px solid #f6f6f6;
+}
+.conBoxText{
+    padding: 20px;
+    box-sizing: border-box;
+}
+p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.aleftbox{
+    width: 10%;
+    height: 40px;
+}
+.arightbox{
+    width: 90%;
+    height: 40px;
+
+}
+
+table {
+    width: 100%;
+   background-color: #fff;
+   color: #666;
+}
+
+td{
+   border: 1px solid #e6e6e6;
+   padding: 9px 15px;
+   min-height: 20px;
+   line-height: 20px;
+   font-size: 14px;
+   color: #666;
+}
+.tra{
+    width: 15%;
+}
+

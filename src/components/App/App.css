@@ -1,0 +1,17 @@
+.AppBox{
+  height: 100vh;
+  /* color: #fff; */
+}
+
+.HeaderBox{
+  background: pink;
+  height: 50px;
+  padding: 0;
+}
+
+.SiderBox{
+  /* background: greenyellow; */
+}
+.ContentBox{
+  background: chocolate;
+}

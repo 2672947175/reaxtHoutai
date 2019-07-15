@@ -1,0 +1,76 @@
+[
+    {
+        "id": "radio1",
+        "type": "radio",
+        "text": "您对互联网的未来发展有什么看法? [单选]",
+        "optionList": [
+            {
+                "id": "op1",
+                "ked": "rd1",
+                "text": "没有看法"
+            },
+            {
+                "id": "op2",
+                "ked": "rd2",
+                "text": "我认为996应该尽早废弃"
+            },
+            {
+                "id": "op3",
+                "ked": "rd3",
+                "text": "互联网未来会成为主导世界的枢纽"
+            }
+        ]
+    },
+    {
+        "id": "checkbox2",
+        "type": "checkbox",
+        "text": "您有哪些爱好[多选]",
+        "optionList": [
+            {
+                "id": "op1",
+                "ked": false,
+                "text": "-天吃5次主食"
+            },
+            {
+                "id": "op2",
+                "ked": false,
+                "text": "不光吃5次主食还要喝8杯可乐"
+            },
+            {
+                "id": "op3",
+                "ked": false,
+                "text": "除了5次主食8杯可乐还要吃半斤多的零食"
+            },
+            {
+                "id": "op4",
+                "ked": false,
+                "text": "吃完上面的食物，打开朋友圈发一 架减肥的口号"
+            },
+            {
+                "id": "op5",
+                "ked": false,
+                "text": "素食主主义"
+            },
+            {
+                "id": "op6",
+                "ked": false,
+                "text": "热爱运动"
+            },
+            {
+                "id": "op7",
+                "ked": false,
+                "text": "喜欢古典音乐"
+            },
+            {
+                "id": "op8",
+                "ked": false,
+                "text": "喜欢看书，偶尔也写点东西"
+            }
+        ]
+    },
+    {
+        "id": "textarea3",
+        "type": "textarea",
+        "text": "你认为当代年轻人应该持有怎样的世界观、人生观、价值观? [问答]"
+    }
+]
