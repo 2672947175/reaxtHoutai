@@ -9,6 +9,9 @@ import Renyuan from './Zuoye/renyuan'
 import Xiala from './Zuoye/Xiala'
 import Fromdeng from './Zuoye/Fromdenglu'
 import FormSat from './Zuoye/Form-sat'
+import StateUpgra from './Zuoye/zhuantaitisheng/home'
+import StateTisheng from './Zuoye/statetishe/home'
+
 export default class Contents extends Component {
     constructor(props) {
         super(props)
@@ -37,6 +40,11 @@ export default class Contents extends Component {
                 break;
             case 'ZuoYe0712from': ComModule = <FormSat></FormSat>
                 break;
+            case 'Zuoye0715state': ComModule = <StateUpgra></StateUpgra>
+                break;
+            case 'Zuoye0717state': ComModule = <StateTisheng></StateTisheng>
+                break;
+
         }
         return ComModule
     }

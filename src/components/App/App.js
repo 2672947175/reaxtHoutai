@@ -78,13 +78,11 @@ export default class App extends Component {
     });
   };
   onCtext = (link) => {
-    // console.log(link)
     this.setState({
       ModuleName: link
     })
   }
   Bgbtn = (item) => {
-    // console.log(item)
     this.setState({
       theme: item.theme,
       headerBg: item.headerCol,

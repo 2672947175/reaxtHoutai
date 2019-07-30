@@ -75,6 +75,18 @@
                 "name": "ZuoYe0712from",
                 "text": "表单统计表",
                 "icons": "notification"
+            },
+            {
+                "id": "405",
+                "name": "Zuoye0715state",
+                "text": "颜色切换",
+                "icons": "notification"
+            },
+            {
+                "id": "406",
+                "name": "Zuoye0717state",
+                "text": "转态提升",
+                "icons": "notification"
             }
         ]
     }
